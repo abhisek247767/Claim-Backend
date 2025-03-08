@@ -1,3 +1,6 @@
+## 🚀 Overview  
+It is a **Claims Management System** built using **Node.js, Express.js, and MySQL**. It provides a structured API for handling user claims, including authentication, claim submission, and processing.
+
 ✔️ **Claim Submission & Processing**  
 ✔️ **Secure API with Input Validation**  
 ✔️ **MySQL Database Integration**  
